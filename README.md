@@ -1,5 +1,5 @@
 ## Hi, welcome to my create space :metal:
-<img src="otro.png" style="height: 80px; width:80px;"/>
+<img src="descarga.png" style="height: 80px; width:80px;"/>
 
 ### I'm Software Engineer and video game fanatic :space_invader:
 
