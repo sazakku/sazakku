@@ -4,15 +4,25 @@
 ### I'm Software Engineer and video game fanatic :space_invader:
 
 - 🔭 I’m currently working on **QA Automation** and **manual testing**
+
 - 🌱 I’m currently learning **Spring boot** and **Maven dependency manager**
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+
+- 💬 Ask me about APIs, testing, music, stories, video games, backend development and resolution problems
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: My favorite game is halo and I'm practice skateboard amateur :alien:
+
+### Connect with me:
 
 
+
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[twitter]: https://twitter.com/AndresGaleano95
+[instagram]: https://www.instagram.com/kss_andy/
+[linkedin]: https://www.linkedin.com/in/andres-galeano-alarcon/
 <!--
 **afgaleano91/afgaleano91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
