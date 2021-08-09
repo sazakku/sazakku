@@ -1,4 +1,4 @@
-## Hi, welcome to my create space ![Tux, the Linux mascot](/assets/images/tux.png)
+## Hi, welcome to my create space ![Tux, the Linux mascot](descarga.png)
 
 ### I'm Software Engineer and video game fanatic :space_invader:
 
