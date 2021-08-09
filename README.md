@@ -1,10 +1,15 @@
-### Hi, welcome to my create space :space_invader:
+## Hi, welcome to my create space ![Tux, the Linux mascot](/assets/images/tux.png)
 
--
--
--
--
--
+### I'm Software Engineer and video game fanatic :space_invader:
+
+- 🔭 I’m currently working on **QA Automation** and **manual testing**
+- 🌱 I’m currently learning **Spring boot** and **Maven dependency manager**
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 
 
 <!--
