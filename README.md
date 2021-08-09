@@ -1,4 +1,5 @@
-## Hi, welcome to my create space ![Tux, the Linux mascot](descarga.png)
+## Hi, welcome to my create space :metal:
+<img src="GitHub-Mark.png" style="height: 80px; width:80px;"/>
 
 ### I'm Software Engineer and video game fanatic :space_invader:
 
