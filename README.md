@@ -6,7 +6,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andres-galeano-alarcon) 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sazakku&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=sazakku&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sazakku&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
