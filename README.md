@@ -1,12 +1,23 @@
-# 💫 About Me:
-🔭 I’m currently working on different projects with languages such as Ruby, Java and Python<br>🤝 I’m looking for help with Open source projects<br>🌱 I’m currently learning Springboot, Microservices and pentesting<br>💬 Ask me about good practices, Linux, terminal, API's :)<br>⚡ Fun fact, I use to be present in differents groups related with technology, sports and cats :)
+# 💫 About Me
 
+- 🔭 Currently working on projects using **Ruby**, **Java**, and **Python**
+- 🤝 Looking to collaborate on **open source projects**
+- 🌱 Learning **Spring Boot**, **Microservices**, and **Pentesting**
+- 💬 Ask me about **best practices**, **Linux**, **terminal tools**, and **APIs**
+- 🐾 Fun fact: I love being part of communities related to **tech, sports, and cats** 😺
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andres-galeano-alarcon) 
+---
 
-# 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=sazakku&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sazakku&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+## 🌐 Connect with me
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andres-galeano-alarcon)
+
+---
+
+## 📊 GitHub Stats
+
+<!-- Streak Stats -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sazakku&theme=dark&hide_border=false)
+
+<!-- Top Languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sazakku&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
